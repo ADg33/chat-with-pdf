@@ -3,7 +3,7 @@ import requests
 import PyPDF2
 
 # 🔑 API setup
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "your key"
 BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # 🎨 Page config
